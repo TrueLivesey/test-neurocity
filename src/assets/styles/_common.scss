@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+}
+
+.main {
+  padding: 64px 0;
+}
+
+.container {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.section-gap {
+  margin-bottom: 128px;
+}
+
+.title {
+  margin: 0;
+  margin-bottom: 24px;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600;
+}
+
+button {
+  border-radius: 4px;
+  background-color: rgb(216, 216, 216);
+}
